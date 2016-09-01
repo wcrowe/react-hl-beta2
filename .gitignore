@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+.DS_Store
+dist
+react-hot-boilerplate-next/
+react-hot-boilerplate-next.zip
